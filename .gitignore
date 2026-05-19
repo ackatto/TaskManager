@@ -1,0 +1,9 @@
+# .gitignore
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+*.cachefile
+*.userosscache
+*.sln.docstates
